@@ -1,0 +1,6 @@
+# Ignore the build directory
+/.build
+
+# Npm modules
+/node_modules
+npm-debug.log

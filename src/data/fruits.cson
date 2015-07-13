@@ -1,0 +1,12 @@
+[
+  { id: 0, name: 'apple'}
+  { id: 1, name: 'apricot'}
+  { id: 2, name: 'banana'}
+  { id: 3, name: 'blackberry'}
+  { id: 4, name: 'blackcurrant'}
+  { id: 5, name: 'blueberry'}
+  { id: 6, name: 'cherry'}
+  { id: 7, name: 'coconut'}
+  { id: 8, name: 'fig'}
+  { id: 9, name: 'gooseberry'}
+]
